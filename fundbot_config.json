@@ -1,7 +1,9 @@
 {
-  "chat_id": -1003844200519,
-  "topic_id": 30,
+  "chat_id": 7348803416,
+  "topic_id": null,
   "filter_long": 0.1,
   "filter_short": -0.3,
-  "blocked": []
+  "blocked": [],
+  "alert_minute": 54,
+  "chat_dev_id": 508607571
 }
