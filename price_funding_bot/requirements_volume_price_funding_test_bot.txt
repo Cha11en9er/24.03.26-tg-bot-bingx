@@ -1,0 +1,4 @@
+python-telegram-bot[http2]
+httpx
+python-dotenv
+APScheduler>=3.10.4
